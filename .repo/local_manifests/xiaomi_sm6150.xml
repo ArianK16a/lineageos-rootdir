@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device trees -->
+  <project name="LineageOS/android_device_xiaomi_davinci" path="device/xiaomi/davinci" remote="github" revision="lineage-23.0" />
+  <project name="LineageOS/android_device_xiaomi_sweet" path="device/xiaomi/sweet" remote="github" revision="lineage-23.0" />
+  <project name="LineageOS/android_device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" revision="lineage-23.0" />
+
+  <!-- Kernel -->
+  <project name="LineageOS/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" revision="lineage-23.0" />
+
+  <!-- Vendor -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" remote="ssh" revision="lineage-23.0" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sweet" path="vendor/xiaomi/sweet" remote="ssh" revision="lineage-23.0" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="ssh" revision="lineage-23.0" />
+  <!-- <project name="xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="ssh" revision="lineage-23.0" /> -->
+
+  <!-- Translations -->
+  <project name="ArianK16a/android_vendor_extra" path="vendor/translations/" remote="ssh" revision="translations" />
+</manifest>

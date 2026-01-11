@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ArianK16a/android_vendor_lineage-priv" path="vendor/lineage-priv" remote="ssh" revision="main" />
+</manifest>

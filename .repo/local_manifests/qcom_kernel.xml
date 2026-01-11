@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="kernel/qcom/msm8998" remote="github" name="LineageOS/android_kernel_qcom_msm8998" revision="lineage-20" />
+  <project path="kernel/qcom/sm8150" remote="github" name="LineageOS/android_kernel_qcom_sm8150" revision="lineage-20" />
+  <project path="kernel/qcom/sm8350" remote="github" name="LineageOS/android_kernel_qcom_sm8350" revision="lineage-20" />
+  <project path="kernel/qcom/sm8450" remote="github" name="LineageOS/android_kernel_qcom_sm8450" revision="lineage-20" />
+  <project path="kernel/qcom/sm8450-modules" remote="github" name="LineageOS/android_kernel_qcom_sm8450-modules" revision="lineage-20" />
+  <project path="kernel/qcom/sm8450-devicetrees" remote="github" name="LineageOS/android_kernel_qcom_sm8450-devicetrees" revision="lineage-20" />
+
+  <project path="kernel/qcom/sm8650" remote="github" name="LineageOS/android_kernel_qcom_sm8650" revision="lineage-22.2" />
+  <project path="kernel/qcom/sm8650-modules" remote="github" name="LineageOS/android_kernel_qcom_sm8650-modules" revision="lineage-22.2" />
+  <project path="kernel/qcom/sm8650-devicetrees" remote="github" name="LineageOS/android_kernel_qcom_sm8650-devicetrees" revision="lineage-22.2" />
+</manifest>

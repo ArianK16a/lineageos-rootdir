@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="cupid-development/android_device_xiaomi_miuicamera-cupid" path="device/xiaomi/miuicamera-cupid" remote="ssh" revision="lineage-22.2" />
+  <project name="cupid-development/proprietary_vendor_xiaomi_miuicamera-cupid" path="vendor/xiaomi/miuicamera-cupid" remote="mainlining" revision="lineage-22.2" />
+</manifest>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ArianK16a/android_tools_buildscript" path="tools/buildscript" remote="ssh" revision="main" />
+  <project name="ArianK16a/android_vendor_extra" path="vendor/extra" remote="ssh" revision="main" />
+</manifest>
