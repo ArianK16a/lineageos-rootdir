@@ -21,5 +21,6 @@ alias clogcat='adb logcat -v color'
 
 #export AVB_RSA4096_KEY_PATH=external/avb/test/data/testkey_rsa4096.pem
 #export AVB_RSA2048_KEY_PATH=external/avb/test/data/testkey_rsa2048.pem
-export AVB_RSA4096_KEY_PATH=.release-keys/avbkey_rsa4096.pem
-export AVB_RSA2048_KEY_PATH=.release-keys/avbkey_rsa2048.pem
+
+#export AVB_RSA4096_KEY_PATH=.release-keys/avbkey_rsa4096.pem
+#export AVB_RSA2048_KEY_PATH=.release-keys/avbkey_rsa2048.pem
