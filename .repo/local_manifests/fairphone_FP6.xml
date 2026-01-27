@@ -11,6 +11,6 @@
   <!-- Vendor -->
   <project name="ArianK16a/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" remote="mainlining" revision="lineage-23.2" />
 
-  <project name="ArianK16a/android_packages_apps_AlertSlider" path="packages/apps/AlertSlider" remote="ssh" revision="lineage-22.2" />
+  <project name="ArianK16a/android_packages_apps_AlertSlider" path="packages/apps/AlertSlider" remote="ssh" revision="lineage-23.2" />
   <project name="LineageOS/android_hardware_samsung_slsi_nfc" path="hardware/samsung_slsi/nfc" remote="github" />
 </manifest>
