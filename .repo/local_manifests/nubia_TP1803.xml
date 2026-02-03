@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/nubia/TP1803" remote="github" name="LineageOS/android_device_nubia_TP1803" revision="lineage-23.0" />
-  <project path="kernel/nubia/sm8150" remote="github" name="LineageOS/android_kernel_nubia_sm8150" revision="lineage-23.0" />
-  <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" remote="ssh" revision="lineage-23.0" />
+  <project path="device/nubia/TP1803" remote="github" name="LineageOS/android_device_nubia_TP1803" revision="lineage-23.2" />
+  <project path="kernel/nubia/sm8150" remote="github" name="LineageOS/android_kernel_nubia_sm8150" revision="lineage-23.2" />
+  <project name="TheMuppets/proprietary_vendor_nubia_TP1803" path="vendor/nubia/TP1803" remote="ssh" revision="lineage-23.2" />
 </manifest>

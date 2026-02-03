@@ -10,6 +10,6 @@
  <!-- <project name="oddsolutions-gms/proprietary_vendor_partner_modules" path="vendor/partner_modules" remote="gl-ssh" /> -->
 
 <!-- pixel goodies -->
-  <project name="ArianK16a/proprietary_vendor_google_pixel-goodies" path="vendor/google/pixel-goodies" remote="gitlab" revision="lineage-23.2" />
+  <project name="ArianK16a/proprietary_vendor_pixel-goodies" path="vendor/pixel-goodies" remote="gitlab" revision="lineage-23.2" />
 
 </manifest>

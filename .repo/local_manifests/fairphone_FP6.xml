@@ -5,12 +5,12 @@
 
   <!-- Kernel -->
   <project name="ArianK16a/android_kernel_fairphone_sm7635" path="kernel/fairphone/sm7635" remote="ssh" revision="lineage-23.2"  />
-  <project name="ArianK16a/android_kernel_fairphone_sm7635-devicetrees" path="kernel/fairphone/sm7635-devicetrees" remote="ssh" revision="lineage-22.2"  />
+  <project name="ArianK16a/android_kernel_fairphone_sm7635-devicetrees" path="kernel/fairphone/sm7635-devicetrees" remote="ssh" revision="lineage-23.2"  />
   <project name="ArianK16a/android_kernel_fairphone_sm7635-modules" path="kernel/fairphone/sm7635-modules" remote="ssh" revision="lineage-23.2"  />
 
   <!-- Vendor -->
   <project name="ArianK16a/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" remote="mainlining" revision="lineage-23.2" />
 
-  <project name="ArianK16a/android_packages_apps_AlertSlider" path="packages/apps/AlertSlider" remote="ssh" revision="lineage-23.2" />
+  <!-- NFC -->
   <project name="LineageOS/android_hardware_samsung_slsi_nfc" path="hardware/samsung_slsi/nfc" remote="github" />
 </manifest>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="ssh://git@github.com" name="ssh" review="review.lineageos.org" revision="lineage-23.0" />
-  <remote fetch="ssh://git@git-ssh.mainlining.org" name="mainlining" revision="lineage-23.0" />
-  <remote fetch="ssh://git@gitlab.com" name="gitlab" revision="lineage-23.0" />
+  <remote fetch="ssh://git@github.com" name="ssh" review="review.lineageos.org" revision="lineage-23.2" />
+  <remote fetch="ssh://git@git-ssh.mainlining.org" name="mainlining" revision="lineage-23.2" />
+  <remote fetch="ssh://git@gitlab.com" name="gitlab" revision="lineage-23.2" />
   <remote fetch="git://codeaurora.org/quic/la" name="caf" />
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo" review="codelinaro.org"/>
 </manifest>
