@@ -14,6 +14,10 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="ssh" revision="lineage-23.2" />
   <!-- <project name="xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" remote="ssh" revision="lineage-23.0" /> -->
 
+
+  <!-- <project name="xiaomi-sm6150/android_device_xiaomi_courbet" path="device/xiaomi/courbet" remote="ssh" revision="lineage-21" />
+  <project name="xiaomi-sm6150/proprietary_vendor_xiaomi_courbet" path="vendor/xiaomi/courbet" remote="ssh" revision="lineage-21" /> -->
+
   <!-- Translations -->
   <project name="ArianK16a/android_vendor_extra" path="vendor/translations/" remote="ssh" revision="translations" />
 </manifest>

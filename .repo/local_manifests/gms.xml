@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Remotes -->
- <remote fetch="ssh://git@gitlab.incom.co:22/" name="gl-ssh" revision="lineage-23.2" />
+  <remote fetch="ssh://git@git.bitfissure.com:22/" name="gl-bf-ssh" />
 
 <!-- partner_gms -->
- <project name="oddsolutions-gms/proprietary_vendor_partner_gms" path="vendor/partner_gms" remote="gl-ssh" />
- <!-- <project name="oddsolutions-gms/proprietary_vendor_partner_gms-gtv" path="vendor/partner_gms-gtv" remote="gl-ssh" /> -->
- <!-- <project name="oddsolutions-gms/proprietary_vendor_partner_gms-tv" path="vendor/partner_gms-tv" remote="gl-ssh" /> -->
- <!-- <project name="oddsolutions-gms/proprietary_vendor_partner_modules" path="vendor/partner_modules" remote="gl-ssh" /> -->
+  <project name="OddSolutionsGMS/proprietary_vendor_partner_gms" path="vendor/partner_gms" remote="gl-bf-ssh" />
+<!--
+  <project name="OddSolutionsGMS/proprietary_vendor_partner_gms-gtv" path="vendor/partner_gms-gtv" remote="gl-bf-ssh" />
+  <project name="OddSolutionsGMS/proprietary_vendor_partner_gms-tv" path="vendor/partner_gms-tv" remote="gl-bf-ssh" />
+-->
 
 <!-- pixel goodies -->
   <project name="ArianK16a/proprietary_vendor_pixel-goodies" path="vendor/pixel-goodies" remote="gitlab" revision="lineage-23.2" />

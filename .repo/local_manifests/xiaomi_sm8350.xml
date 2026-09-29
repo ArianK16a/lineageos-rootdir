@@ -3,16 +3,18 @@
   <!-- Device trees -->
   <!-- <project name="LineageOS/android_device_xiaomi_lisa" path="device/xiaomi/lisa" remote="github" revision="lineage-22.2" /> -->
   <!-- <project name="LineageOS/android_device_xiaomi_mars" path="device/xiaomi/mars" remote="github" revision="lineage-22.2" /> -->
-  <project name="LineageOS/android_device_xiaomi_renoir" path="device/xiaomi/renoir" remote="github" revision="refs/changes/94/465794/1" />
-  <project name="LineageOS/android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" remote="github" revision="refs/changes/13/465713/2" />
+  <project name="LineageOS/android_device_xiaomi_renoir" path="device/xiaomi/renoir" remote="github" revision="lineage-23.2" />
+  <project name="LineageOS/android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" remote="github" revision="lineage-23.2" />
 
   <!-- Kernel -->
-  <!-- <project name="LineageOS/android_kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" remote="github" revision="lineage-22.2" /> -->
-  <project name="xiaomi-lisa-devs/android_kernel_qcom_sm8350" path="kernel/xiaomi/sm8350" remote="github" revision="lineage-23.1" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" remote="github" revision="lineage-23.2" />
+  <!-- <project name="xiaomi-lisa-devs/android_kernel_qcom_sm8350" path="kernel/xiaomi/sm8350" remote="github" revision="lineage-23.2" /> -->
 
   <!-- Vendor -->
   <!-- <project name="TheMuppets/proprietary_vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="lineage-22.2" remote="ssh" /> -->
   <!-- <project name="TheMuppets/proprietary_vendor_xiaomi_mars" path="vendor/xiaomi/mars" revision="lineage-22.2" remote="ssh" /> -->
-  <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" revision="lineage-22.2" remote="ssh" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-22.2" remote="ssh" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" revision="lineage-23.2" remote="ssh" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-23.2" remote="ssh" />
+  <!-- <project name="xiaomi-lisa-devs/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-23.2" remote="ssh" /> -->
+
 </manifest>

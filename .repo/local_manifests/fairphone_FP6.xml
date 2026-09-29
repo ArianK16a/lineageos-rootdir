@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="ArianK16a/android_device_fairphone_FP6" path="device/fairphone/FP6" remote="ssh" revision="lineage-23.2" />
+  <!-- <project name="ArianK16a/android_device_fairphone_FP6" path="device/fairphone/FP6" remote="ssh" revision="lineage-23.2" /> -->
+  <project path="device/fairphone/FP6" remote="github" name="LineageOS/android_device_fairphone_FP6" />
 
   <!-- Kernel -->
-  <project name="ArianK16a/android_kernel_fairphone_sm7635" path="kernel/fairphone/sm7635" remote="ssh" revision="lineage-23.2"  />
+  <!-- <project name="ArianK16a/android_kernel_fairphone_sm7635" path="kernel/fairphone/sm7635" remote="ssh" revision="lineage-23.2"  />
   <project name="ArianK16a/android_kernel_fairphone_sm7635-devicetrees" path="kernel/fairphone/sm7635-devicetrees" remote="ssh" revision="lineage-23.2"  />
-  <project name="ArianK16a/android_kernel_fairphone_sm7635-modules" path="kernel/fairphone/sm7635-modules" remote="ssh" revision="lineage-23.2"  />
+  <project name="ArianK16a/android_kernel_fairphone_sm7635-modules" path="kernel/fairphone/sm7635-modules" remote="ssh" revision="lineage-23.2"  /> -->
+  <project path="kernel/fairphone/sm7635" remote="github" name="LineageOS/android_kernel_fairphone_sm7635" />
+  <project path="kernel/fairphone/sm7635-devicetrees" remote="github" name="LineageOS/android_kernel_fairphone_sm7635-devicetrees" />
+  <project path="kernel/fairphone/sm7635-modules" remote="github" name="LineageOS/android_kernel_fairphone_sm7635-modules" />
 
   <!-- Vendor -->
-  <project name="ArianK16a/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" remote="mainlining" revision="lineage-23.2" />
+  <!-- <project name="ArianK16a/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" remote="mainlining" revision="lineage-23.2" /> -->
+  <project name="TheMuppets/proprietary_vendor_fairphone_FP6" path="vendor/fairphone/FP6" remote="ssh" />
 
   <!-- NFC -->
   <project name="LineageOS/android_hardware_samsung_slsi_nfc" path="hardware/samsung_slsi/nfc" remote="github" />
